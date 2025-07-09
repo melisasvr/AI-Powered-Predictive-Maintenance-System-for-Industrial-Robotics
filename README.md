@@ -23,7 +23,7 @@
 - HTML5: For the structure and content of the dashboard.
 - CSS3: For modern styling, including gradients, shadows, animations, and a responsive grid layout.
 - JavaScript (ES6+): For all the dynamic logic, including data simulation, DOM manipulation, and event handling.
-- Chart.js: A powerful library used to create the beautiful and responsive line and bar charts for data visualization.
+
 
 ## ⚙️ How It Works
 - This prototype simulates a real-world predictive maintenance environment.
